@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🔭 Eu atualmente trabalho no Back-end
 - 🌱 Estou estudando Python
 - 📫 Como chegar até mim: Instagram-@asafaraujo
-- ⚡ Curiosidades: Faço desenhos digitais e sou tecladista 🎹
+- ⚡ Curiosidades: Faço desenhos digitai e sou tecladista
 -->
 <div>
-<a href="https://github.com/AsafViana">
+  <a href="https://github.com/AsafViana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsafViana&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsafViana&layout=compact&langs_count=7&theme=onedark"/>
 </div>
